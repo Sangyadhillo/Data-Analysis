@@ -1,5 +1,4 @@
 # HR-Analytics Case Study
-## This repository contains a Case Study of HR Analytics.
 
 ## Introduction
 This is HR Analytics Case Study of an imaginary company named "People Charm". The Case Study is to analyze and derive insights to answer crucial questions and help the HR to make Data Driven Decisions.
