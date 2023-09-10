@@ -27,11 +27,11 @@ The Case Study is to analyze and derive insights to answer cruucial questions an
 -seaborn,
 
  ## Key EDA Techniques :
- Data Cleaning:-clean the irrelevant and unused data.
+1. Data Cleaning:-clean the irrelevant and unused data.
  
- Data transformation:-transform the data according to the needs.
+2. Data transformation:-transform the data according to the needs.
  
- Data Visualisation:-created interactive visuals by calculating various measures to draw insights from the data.
+3. Data Visualisation:-created interactive visuals by calculating various measures to draw insights from the data.
 
  ## Insights and findings:
 1. The person who are getting low or high score are leaving.
