@@ -1,8 +1,6 @@
 # HR- ANALYTICS CASE STUDY
 
-
-
-## Introduction
+## Introduction 
 This is HR Analytics Case Study of an imaginary company named "People Charm".
 The Case Study is to analyze and derive insights to answer cruucial questions and help the  HR to make Data Driven Decisions.
 **_Disclaimers_**:- All datasets and reports do not represent any company ,institution or country but just a dummy dataset to demonstrate capabilites of Data Analysis
